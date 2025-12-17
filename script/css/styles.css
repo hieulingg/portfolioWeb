@@ -289,16 +289,16 @@ canvas.particles-js-canvas-el{
   border-radius: .5rem;
   z-index: var(--z-back);
 }
-.skills__docker{
-  width: 10%;
+.skills__unity{
+  width: 70%;
 }
-.skills__linux{
+.skills__c#{
+  width: 70%;
+}
+.skills__c++{
   width: 50%;
 }
-.skills__py{
-  width: 30%;
-}
-.skills__harden{
+.skills__js{
   width: 30%;
 }
 
